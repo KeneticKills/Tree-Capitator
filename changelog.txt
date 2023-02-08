@@ -1,0 +1,3 @@
+Bug Fix
+1.Sometimes player can not enable tree capitator
+2.Unbreakable weapon can be break
